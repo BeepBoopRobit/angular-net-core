@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\snugglefoot\\source\\repos\\AngularApp-dotnet-ver-8\\AngularApp-dotnet-ver-8.Server\\..\\angularapp-dotnet-ver-8.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
